@@ -1,0 +1,1406 @@
+﻿CÓDIGO,CUENTA,PICHINCHA,PRODUBANCO
+1                               ,ACTIVO,"13,838,004,583","6,315,196,016"
+11                              ,FONDOS DISPONIBLES,"1,702,375,820","1,207,263,143"
+1101                            ,Caja,"297,440,161","107,472,602"
+110105                          ,Efectivo,"297,408,311","107,472,602"
+110110                          ,Caja chica,"31,850",0
+1102                            ,Depósitos para encaje,"1,059,266,859","546,673,405"
+110205                          ,Banco Central del Ecuador,"1,059,266,859","546,673,405"
+110210                          ,Banco Nacional de Fomento,0,0
+110215                          ,Bancos locales,0,0
+1103                            ,Bancos y otras instituciones financieras,"220,041,696","491,724,645"
+110305                          ,Banco Central del Ecuador,0,0
+110310                          ,Bancos e instituciones financieras locales,"4,230,215","313,283,585"
+110315                          ,Bancos e instituciones financieras del exterior,"212,767,998","178,441,061"
+110320                          ,EXCEDENTE DE FONDO DE LIQUIDEZ,"3,043,483",0
+1104                            ,Efectos de cobro inmediato,"42,204,137","33,529,030"
+1105                            ,Remesas en tránsito,"83,422,967","27,863,461"
+110505                          ,Del país,"83,422,967","27,617,490"
+110510                          ,Del exterior,0,"245,971"
+12                              ,OPERACIONES INTERBANCARIAS,0,0
+1201                            ,Fondos interbancarios vendidos,0,0
+120105                          ,Bancos,0,0
+120110                          ,Otras instituciones del sistema financiero,0,0
+1202                            ,Operaciones de reporto con instituciones financieras,0,0
+120205                          ,Instituciones financieras públicas,0,0
+120210                          ,Bancos,0,0
+120215                          ,Otras instituciones del sistema financiero,0,0
+1299                            ,(Provisión para operaciones interbancarias y de reporto),0,0
+129905                          ,(Provisión fondos interbancarios vendidos),0,0
+129910                          ,(Provisión para operaciones de reporto con instituciones financieras),0,0
+13                              ,INVERSIONES,"2,573,032,752","731,657,593"
+1301                            ,A valor razonable con cambios en el estado de resultados deentidades del sector privado,0,0
+130105                          ,De 1 a 30 días,0,0
+130110                          ,De 31 a 90 días,0,0
+130115                          ,De 91 a 180 días,0,0
+130120                          ,De 181 A 360 días,0,0
+130125                          ,De más de 360 días,0,0
+1302                            ,A valor razonable con cambios en el estado de resultados del Estado o de entidades del sector público,0,0
+130205                          ,De 1 a 30 días,0,0
+130210                          ,De 31 a 90 días,0,0
+130215                          ,De 91 a 180 días,0,0
+130220                          ,De 181 A 360 días,0,0
+130225                          ,De más de 360 días,0,0
+1303                            ,Disponibles para la venta de entidades del sector privado,"493,936,482","254,180,900"
+130305                          ,De 1 a 30 días,"40,768,328","62,691,150"
+130310                          ,De 31 a 90 días,"44,500,434","106,711,612"
+130315                          ,De 91 a 180 días,"34,463,099","26,319,107"
+130320                          ,De 181 A 360 días,"57,332,698","19,342,031"
+130325                          ,De más de 360 días,"316,871,923","39,117,001"
+1304                            ,Disponibles para la venta del Estado o de entidades del sector público,"1,474,484,582","263,715,006"
+130405                          ,De 1 a 30 días,"139,224,495","93,663,297"
+130410                          ,De 31 a 90 días,"636,591,380","138,926,275"
+130415                          ,De 91 a 180 días,"522,840,210",0
+130420                          ,De 181 A 360 días,"141,285,181",0
+130425                          ,De más de 360 días,"34,543,316","31,125,435"
+1305                            ,Mantenidas hasta el vencimiento de entidades del sector privado,"27,666,940","1,453,070"
+130505                          ,De 1 a 30 días,"10,640,230",0
+130510                          ,De 31 a 90 días,"10,471,594",0
+130515                          ,De 91 a 180 días,"5,605,141",0
+130520                          ,De 181 días a 1 año,"949,975",0
+130525                          ,De 1 a 3 años,0,"1,453,070"
+130530                          ,De 3 a 5 años,0,0
+130535                          ,De 5 a 10 años,0,0
+130540                          ,De más de 10 años,0,0
+1306                            ,Mantenidas hasta su vencimiento del Estado o de entidades del sector público,"524,469,809","197,406,490"
+130605                          ,De 1 a 30 días,0,0
+130610                          ,De 31 a 90 días,0,0
+130615                          ,De 91 a 180 días,"459,160,994","197,406,490"
+130620                          ,De 181 días a 1 año,0,0
+130625                          ,De 1 a 3 años,0,0
+130630                          ,De 3 a 5 años,"19,592,645",0
+130635                          ,De 5 a 10 años,"45,716,171",0
+130640                          ,De más de 10 años,0,0
+1307                            ,De disponibilidad restringida,"168,883,014","14,933,779"
+130705                          ,Entregadas para operaciones de reporto,0,0
+130710                          ,Depósitos sujetos a restricción,"11,672,562",0
+130715                          ,Títulos valores para encaje,0,0
+130720                          ,Entregados en garantía,"157,210,452","14,933,779"
+130790                          ,Otros,0,0
+1399                            ,(Provisión para inversiones),"-116,408,075","-31,652"
+139905                          ,(Provisión para valuación de inversiones),"-116,408,075","-31,652"
+139910                          ,(Provisión general para inversiones),0,0
+14                              ,CARTERA DE CRÉDITOS,"8,208,619,207","4,004,219,594"
+1401                            ,CARTERA DE CRÉDITOS PRODUCTIVO POR VENCER,"3,205,682,812","2,579,032,162"
+140105                          ,DE 1 A 30 días,"262,670,699","177,324,298"
+140110                          ,De 31 A 90 días,"445,018,271","245,129,264"
+140115                          ,DE 91 A 180 días,"445,790,209","346,448,601"
+140120                          ,De 181 A 360 días,"623,164,821","313,086,943"
+140125                          ,De MÁS De 360 días,"1,429,038,812","1,497,043,056"
+1402                            ,CARTERA DE CRÉDITOS DE CONSUMO POR VENCER,"3,100,300,825","1,171,744,852"
+140205                          ,DE 1 A 30 días,"544,958,550","399,734,514"
+140210                          ,De 31 A 90 días,"204,828,680","79,852,400"
+140215                          ,DE 91 A 180 días,"246,484,392","96,156,110"
+140220                          ,De 181 A 360 días,"414,900,204","143,250,657"
+140225                          ,De MÁS De 360 días,"1,689,128,998","452,751,171"
+1403                            ,CARTERA DE CRÉDITOS INMOBILIARIO POR VENCER,"690,443,896","239,444,323"
+140305                          ,DE 1 A 30 días,"9,176,573","2,136,388"
+140310                          ,De 31 A 90 días,"12,690,098","4,280,610"
+140315                          ,De 91 A 180 días,"18,221,854","7,024,392"
+140320                          ,De 181 A 360 días,"31,442,803","13,185,179"
+140325                          ,De MÁS De 360 días,"618,912,569","212,817,754"
+1404                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO POR VENCER,"1,364,934,848","26,770,931"
+140405                          ,DE 1 A 30 días,"74,107,867","1,953,240"
+140410                          ,De 31 A 90 días,"113,174,166","1,962,639"
+140415                          ,De 91 A 180 días,"164,791,035","3,639,894"
+140420                          ,De 181 A 360 días,"285,055,126","3,659,529"
+140425                          ,De MÁS De 360 días,"727,806,655","15,555,629"
+1408                            ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO POR VENCER,"5,399,158",0
+140805                          ,DE 1 A 30 días,"9,086",0
+140810                          ,De 31 A 90 días,"22,736",0
+140815                          ,De 91 A 180 días,"36,533",0
+140820                          ,De 181 A 360 días,"77,937",0
+140825                          ,De MÁS De 360 días,"5,252,866",0
+1409                            ,CARTERA DE CRÉDITOS PRODUCTIVO REFINANCIADA POR VENCER,"59,182,007","7,478,515"
+140905                          ,DE 1 A 30 días,"4,050,514","159,279"
+140910                          ,De 31 A 90 días,"4,821,161","328,874"
+140915                          ,De 91 A 180 días,"5,354,152","736,062"
+140920                          ,De 181 A 360 días,"9,277,137","2,004,067"
+140925                          ,De MÁS De 360 días,"35,679,043","4,250,233"
+1410                            ,CARTERA DE CRÉDITOS CONSUMO REFINANCIADA POR VENCER,"21,717,088","4,681,920"
+141005                          ,DE 1 A 30 días,"698,315","940,872"
+141010                          ,De 31 A 90 días,"1,128,346","194,277"
+141015                          ,De 91 A 180 días,"1,616,686","274,339"
+141020                          ,De 181 A 360 días,"3,169,520","516,329"
+141025                          ,De MÁS De 360 días,"15,104,221","2,756,101"
+1411                            ,CARTERA DE CRÉDITOS INMOBILIARIO REFINANCIADA POR VENCER,"7,271,525","2,314,599"
+141105                          ,DE 1 A 30 días,"76,256","16,763"
+141110                          ,De 31 A 90 días,"117,873","21,778"
+141115                          ,De 91 A 180 días,"164,799","33,598"
+141120                          ,De 181 A 360 días,"338,651","68,539"
+141125                          ,De MÁS De 360 días,"6,573,947","2,173,921"
+1412                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO REFINANCIADA POR VENCER,"14,233,401","28,212"
+141205                          ,DE 1 A 30 días,"635,207",832
+141210                          ,De 31 A 90 días,"970,000","1,247"
+141215                          ,De 91 A 180 días,"1,266,328","1,872"
+141220                          ,De 181 A 360 días,"2,403,415","3,576"
+141225                          ,De MÁS De 360 días,"8,958,452","20,685"
+1416                            ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO REFINANCIADA POR VENCER,0,0
+141605                          ,DE 1 A 30 días,0,0
+141610                          ,De 31 A 90 días,0,0
+141615                          ,De 91 A 180 días,0,0
+141620                          ,De 181 A 360 días,0,0
+141625                          ,De MÁS De 360 días,0,0
+1417                            ,CARTERA DE CRÉDITOS PRODUCTIVO REESTRUCTURADA POR VENCER,"60,318,564","8,347,289"
+141705                          ,DE 1 A 30 días,"11,453,190","144,339"
+141710                          ,De 31 A 90 días,"5,313,511","199,612"
+141715                          ,De 91 A 180 días,"3,769,536","335,654"
+141720                          ,De 181 A 360 días,"5,501,261","3,304,352"
+141725                          ,De MÁS De 360 días,"34,281,067","4,363,332"
+1418                            ,CARTERA DE CRÉDITOS DE CONSUMO  REESTRUCTURADA POR VENCER,"76,486,361","57,577,473"
+141805                          ,DE 1 A 30 días,"2,609,651","2,294,983"
+141810                          ,De 31 A 90 días,"3,399,943","1,779,620"
+141815                          ,De 91 A 180 días,"4,827,102","2,743,998"
+141820                          ,De 181 A 360 días,"9,806,675","5,606,833"
+141825                          ,De MÁS De 360 días,"55,842,990","45,152,038"
+1419                            ,CARTERA DE CRÉDITOS INMOBILIARIO REESTRUCTURADA POR VENCER,"58,565,938","8,588,809"
+141905                          ,DE 1 A 30 días,"434,682","54,205"
+141910                          ,De 31 A 90 días,"860,009","74,321"
+141915                          ,De 91 A 180 días,"870,261","115,877"
+141920                          ,De 181 A 360 días,"1,540,483","249,504"
+141925                          ,De MÁS De 360 días,"54,860,502","8,094,903"
+1420                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO REESTRUCTURADA POR VENCER,"82,333,550","500,103"
+142005                          ,DE 1 A 30 días,"2,599,247","14,071"
+142010                          ,De 31 A 90 días,"3,155,625","23,534"
+142015                          ,De 91 A 180 días,"4,593,815","35,762"
+142020                          ,De 181 A 360 días,"9,857,887","58,537"
+142025                          ,De MÁS De 360 días,"62,126,975","368,199"
+1424                            ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO REESTRUCTURADA POR VENCER,0,0
+142405                          ,DE 1 A 30 días,0,0
+142410                          ,De 31 A 90 días,0,0
+142415                          ,De 91 A 180 días,0,0
+142420                          ,De 181 A 360 días,0,0
+142425                          ,De MÁS De 360 días,0,0
+1425                            ,CARTERA DE CRÉDITOS PRODUCTIVO QUE NO DEVENGA INTERESES,"7,179,819","1,821,417"
+142505                          ,DE 1 A 30 días,"1,432,787","293,298"
+142510                          ,De 31 A 90 días,"550,164","235,517"
+142515                          ,De 91 A 180 días,"1,029,220","317,012"
+142520                          ,De 181 A 360 días,"1,537,611","369,664"
+142525                          ,De MÁS De 360 días,"2,630,037","605,927"
+1426                            ,CARTERA DE CRÉDITOS DE CONSUMO QUE NO DEVENGA INTERESES,"38,435,046","18,798,147"
+142605                          ,DE 1 A 30 días,"9,271,639","1,490,040"
+142610                          ,De 31 A 90 días,"3,642,064","2,688,866"
+142615                          ,De 91 A 180 días,"4,695,978","3,447,769"
+142620                          ,De 181 A 360 días,"6,772,568","2,843,711"
+142625                          ,De MÁS De 360 días,"14,052,797","8,327,760"
+1427                            ,CARTERA DE CRÉDITOS INMOBILIARIO QUE NO DEVENGA INTERESES,"14,358,244","4,361,799"
+142705                          ,DE 1 A 30 días,"406,419","104,000"
+142710                          ,De 31 A 90 días,"388,466","71,609"
+142715                          ,De 91 A 180 días,"478,126","105,508"
+142720                          ,De 181 A 360 días,"934,017","215,492"
+142725                          ,De MÁS De 360 días,"12,151,218","3,865,190"
+1428                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO QUE NO DEVENGA INTERESES,"16,238,860","543,279"
+142805                          ,DE 1 A 30 días,"2,526,997","78,819"
+142810                          ,De 31 A 90 días,"2,838,569","75,925"
+142815                          ,De 91 A 180 días,"2,498,673","76,120"
+142820                          ,De 181 A 360 días,"3,848,382","128,803"
+142825                          ,De MÁS De 360 días,"4,526,239","183,611"
+1432                            ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO QUE NO DEVENGA INTERESES,0,0
+143205                          ,DE 1 A 30 días,0,0
+143210                          ,De 31 A 90 días,0,0
+143215                          ,De 91 A 180 días,0,0
+143220                          ,De 181 A 360 días,0,0
+143225                          ,De MÁS De 360 días,0,0
+1433                            ,CARTERA DE CRÉDITOS PRODUCTIVO REFINANCIADA QUE NO DEVENGA INTERESES,"1,412,420","578,153"
+143305                          ,DE 1 A 30 días,"256,981","95,835"
+143310                          ,De 31 A 90 días,"515,789","67,269"
+143315                          ,De 91 A 180 días,"133,464","59,273"
+143320                          ,De 181 A 360 días,"133,750","73,273"
+143325                          ,De MÁS De 360 días,"372,436","282,503"
+1434                            ,CARTERA DE CRÉDITOS DE CONSUMO REFINANCIADA QUE NO DEVENGA INTERESES,"1,194,666","181,063"
+143405                          ,DE 1 A 30 días,"104,475","9,480"
+143410                          ,De 31 A 90 días,"64,730","27,905"
+143415                          ,De 91 A 180 días,"89,076","27,589"
+143420                          ,De 181 A 360 días,"170,361","24,396"
+143425                          ,De MÁS De 360 días,"766,023","91,693"
+1435                            ,CARTERA DE CRÉDITOS INMOBILIARIO REFINANCIADA QUE NO DEVENGA INTERESES,"187,387","73,377"
+143505                          ,DE 1 A 30 días,"2,951","3,569"
+143510                          ,De 31 A 90 días,"1,886","2,402"
+143515                          ,De 91 A 180 días,"2,604","3,684"
+143520                          ,De 181 A 360 días,"4,962","7,713"
+143525                          ,De MÁS De 360 días,"174,983","56,009"
+1436                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO REFINANCIADA QUE NO DEVENGA INTERESES,"1,392,379",0
+143605                          ,DE 1 A 30 días,"138,703",0
+143610                          ,De 31 A 90 días,"90,758",0
+143615                          ,De 91 A 180 días,"112,561",0
+143620                          ,De 181 A 360 días,"226,660",0
+143625                          ,De MÁS De 360 días,"823,697",0
+1440                            ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO REFINANCIADA QUE NO DEVENGA INTERESES,0,0
+144005                          ,DE 1 A 30 días,0,0
+144010                          ,De 31 A 90 días,0,0
+144015                          ,De 91 A 180 días,0,0
+144020                          ,De 181 A 360 días,0,0
+144025                          ,De MÁS De 360 días,0,0
+1441                            ,CARTERA DE CRÉDITOS PRODUCTIVO REESTRUCTURADA QUE NO DEVENGA INTERESES,"10,827,133","1,428,223"
+144105                          ,DE 1 A 30 días,"780,046","41,750"
+144110                          ,De 31 A 90 días,"461,436","58,836"
+144115                          ,De 91 A 180 días,"700,769","58,727"
+144120                          ,De 181 A 360 días,"1,876,831","186,494"
+144125                          ,De MÁS De 360 días,"7,008,051","1,082,417"
+1442                            ,CARTERA DE CRÉDITOS DE CONSUMO REESTRUCTURADA QUE NO DEVENGA INTERESES,"23,151,382","11,698,515"
+144205                          ,DE 1 A 30 días,"1,337,257","333,519"
+144210                          ,De 31 A 90 días,"940,412","482,160"
+144215                          ,De 91 A 180 días,"1,333,246","694,815"
+144220                          ,De 181 A 360 días,"2,748,100","1,113,415"
+144225                          ,De MÁS De 360 días,"16,792,367","9,074,606"
+1443                            ,CARTERA DE CRÉDITOS INMOBILIARIO REESTRUCTURADA QUE NO DEVENGA INTERESES,"9,443,143","1,246,484"
+144305                          ,DE 1 A 30 días,"124,154","13,949"
+144310                          ,De 31 A 90 días,"85,301","8,856"
+144315                          ,De 91 A 180 días,"123,800","14,085"
+144320                          ,De 181 A 360 días,"254,141","29,081"
+144325                          ,De MÁS De 360 días,"8,855,748","1,180,512"
+1444                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO REESTRUCTURADA QUE NO DEVENGA INTERESES,"25,866,020","114,980"
+144405                          ,DE 1 A 30 días,"1,409,567","8,818"
+144410                          ,De 31 A 90 días,"973,061","5,726"
+144415                          ,De 91 A 180 días,"1,340,916","8,616"
+144420                          ,De 181 A 360 días,"2,947,064","16,333"
+144425                          ,De MÁS De 360 días,"19,195,412","75,488"
+1448                            ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO REESTRUCTURADA QUE NO DEVENGA INTERESES,0,0
+144805                          ,DE 1 A 30 días,0,0
+144810                          ,De 31 A 90 días,0,0
+144815                          ,De 91 A 180 días,0,0
+144820                          ,De 181 A 360 días,0,0
+144825                          ,De MÁS De 360 días,0,0
+1449                            ,CARTERA DE CRÉDITOS PRODUCTIVO VENCIDA,"13,526,278","4,172,458"
+144905                          ,DE 1 A 30 días,"322,320","46,668"
+144910                          ,De 31 A 90 días,"2,723,822","193,437"
+144915                          ,De 91 A 180 días,"4,575,102","553,045"
+144920                          ,De 181 A 360 días,"3,782,491","2,352,143"
+144925                          ,De MÁS De 360 días,"2,122,544","1,027,164"
+1450                            ,CARTERA DE CRÉDITOS DE CONSUMO VENCIDA,"32,616,330","3,313,883"
+145005                          ,DE 1 A 30 días,"1,387,961",0
+145010                          ,De 31 A 90 días,"9,245,408","709,205"
+145015                          ,De 91 A 180 días,"10,730,237","1,350,633"
+145020                          ,De 181 A 270 días,"4,581,744","1,123,053"
+145025                          ,DE MÁS DE 270 días,"6,670,981","130,992"
+1451                            ,CARTERA DE CRÉDITOS INMOBILIARIO VENCIDA,"3,985,604","2,513,843"
+145105                          ,DE 1 A 30 días,"340,144","207,376"
+145110                          ,De 31 A 90 días,"637,512","168,820"
+145115                          ,De 91 A 180 días,"1,549,648","1,410,485"
+145120                          ,De 181 A 270 días,"545,083","153,342"
+145125                          ,De 361 A 720 días,"677,625","535,641"
+145130                          ,De MÁS De 720 días,"235,593","38,180"
+1452                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO VENCIDA,"4,476,833","88,259"
+145205                          ,DE 1 A 30 días,"315,649",0
+145210                          ,De 31 A 90 días,"1,552,086","37,492"
+145215                          ,De 91 A 180 días,"2,211,222","46,260"
+145220                          ,De 181 A 360 días,"374,489","3,248"
+145225                          ,De MÁS De 360 días,"23,387","1,259"
+1456                            ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO VENCIDA,7,0
+145605                          ,DE 1 A 30 días,0,0
+145610                          ,De 31 A 90 días,0,0
+145615                          ,De 91 A 270 días,0,0
+145620                          ,De 171 A 360 días,0,0
+145625                          ,De 361 A 720 días,0,0
+145630                          ,De MÁS De 720 días,7,0
+1457                            ,CARTERA DE CRÉDITOS PRODUCTIVO REFINANCIADA VENCIDA,"964,613","1,049,093"
+145705                          ,DE 1 A 30 días,"12,873",0
+145710                          ,De 31 A 90 días,"139,127","475,431"
+145715                          ,De 91 A 180 días,"639,082","317,260"
+145720                          ,De 181 A 360 días,"152,610","163,126"
+145725                          ,De MÁS De 360 días,"20,921","93,275"
+1458                            ,CARTERA DE CRÉDITOS DE CONSUMO REFINANCIADA VENCIDA,"113,161","83,557"
+145805                          ,DE 1 A 30 días,"28,204","10,959"
+145810                          ,De 31 A 90 días,"36,662","31,579"
+145815                          ,De 91 A 180 días,"42,669","17,057"
+145820                          ,De 181 A 270 días,"5,097","20,412"
+145825                          ,DE MÁS DE 270 días,529,"3,550"
+1459                            ,CARTERA DE CRÉDITOS INMOBILIARIO REFINANCIADA VENCIDA,"1,997","146,905"
+145905                          ,DE 1 A 30 días,0,0
+145910                          ,De 31 A 90 días,774,630
+145915                          ,De 91 A 270 días,"1,219","140,182"
+145920                          ,De 271 A 360 días,0,"1,904"
+145925                          ,De 361 A 720 días,1,"4,185"
+145930                          ,De MÁS De 720 días,2,4
+1460                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO REFINANCIADA VENCIDA,"286,867",3
+146005                          ,DE 1 A 30 días,"85,287",0
+146010                          ,De 31 A 90 días,"77,009",0
+146015                          ,De 91 A 180 días,"106,749",0
+146020                          ,De 181 A 360 días,"17,209",0
+146025                          ,De MÁS De 360 días,612,3
+1464                            ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO REFINANCIADA VENCIDA,0,0
+146405                          ,DE 1 A 30 días,0,0
+146410                          ,De 31 A 90 días,0,0
+146415                          ,De 91 A 270 días,0,0
+146420                          ,De 271 A 360 días,0,0
+146425                          ,De 361 A 720 días,0,0
+146430                          ,De MÁS De 720 días,0,0
+1465                            ,CARTERA DE CRÉDITOS PRODUCTIVO REESTRUCTURADA VENCIDA,"2,952,127","721,262"
+146505                          ,DE 1 A 30 días,"633,640",0
+146510                          ,De 31 A 90 días,"543,415","505,699"
+146515                          ,De 91 A 180 días,"949,858","104,134"
+146520                          ,De 181 A 360 días,"660,118","93,767"
+146525                          ,De MÁS De 360 días,"165,095","17,662"
+1466                            ,CARTERA DE CRÉDITOS DE CONSUMO REESTRUCTURADA VENCIDA,"3,032,361","807,622"
+146605                          ,DE 1 A 30 días,"495,524","40,371"
+146610                          ,De 31 A 90 días,"1,402,194","214,765"
+146615                          ,De 91 A 180 días,"882,157","282,560"
+146620                          ,De 181 A 270 días,"209,846","266,773"
+146625                          ,DE MÁS DE 270 días,"42,641","3,152"
+1467                            ,CARTERA DE CRÉDITOS INMOBILIARIO REESTRUCTURADA VENCIDA,"4,547,185","604,282"
+146705                          ,DE 1 A 30 días,"517,191",0
+146710                          ,De 31 A 90 días,"941,329","207,997"
+146715                          ,De 91 A 270 días,"1,932,337","268,616"
+146720                          ,De 271 A 360 días,"710,907","5,048"
+146725                          ,De 361 A 720 días,"445,242","122,380"
+146730                          ,De MÁS De 720 días,180,241
+1468                            ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO REESTRUCTURADA VENCIDA,"2,599,342","6,605"
+146805                          ,DE 1 A 30 días,"1,098,590",0
+146810                          ,De 31 A 90 días,"643,788","2,799"
+146815                          ,De 91 A 180 días,"738,046","3,580"
+146820                          ,De 181 A 360 días,"112,885",172
+146825                          ,De MÁS De 360 días,"6,034",54
+1472                            ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO REESTRUCTURADA VENCIDA,0,0
+147205                          ,DE 1 A 30 días,0,0
+147210                          ,De 31 A 90 días,0,0
+147215                          ,De 91 A 270 días,0,0
+147220                          ,De 271 A 360 días,0,0
+147225                          ,De 361 A 720 días,0,0
+147230                          ,De MÁS De 720 días,0,0
+1473                            ,CARTERA DE CRÉDITO EDUCATIVO POR VENCER,"19,781,991","1,025,212"
+147305                          ,DE 1 A 30 días,"149,622","156,351"
+147310                          ,De 31 A 90 días,"278,741","221,756"
+147315                          ,De 91 A 180 días,"457,899","285,963"
+147320                          ,De 181 A 360 días,"1,188,184","63,365"
+147325                          ,De MÁS De 360 días,"17,707,544","297,777"
+1475                            ,CARTERA DE CRÉDITO EDUCATIVO REFINANCIADA POR VENCER,0,0
+147505                          ,DE 1 A 30 días,0,0
+147510                          ,De 31 A 90 días,0,0
+147515                          ,De 91 A 180 días,0,0
+147520                          ,De 181 A 360 días,0,0
+147525                          ,De MÁS De 360 días,0,0
+1477                            ,CARTERA DE CRÉDITO EDUCATIVO REESTRUCTURADA POR VENCER,0,0
+147705                          ,DE 1 A 30 días,0,0
+147710                          ,De 31 A 90 días,0,0
+147715                          ,De 91 A 180 días,0,0
+147720                          ,De 181 A 360 días,0,0
+147725                          ,De MÁS De 360 días,0,0
+1479                            ,CARTERA DE CRÉDITO EDUCATIVO QUE NO DEVENGA INTERESES,"28,674","38,498"
+147905                          ,DE 1 A 30 días,"2,764","38,498"
+147910                          ,De 31 A 90 días,"1,604",0
+147915                          ,De 91 A 180 días,"2,703",0
+147920                          ,De 181 A 360 días,"5,642",0
+147925                          ,De MÁS De 360 días,"15,962",0
+1481                            ,CARTERA DE CRÉDITO EDUCATIVO REFINANCIADA QUE NO DEVENGA INTERESES,0,0
+148105                          ,DE 1 A 30 días,0,0
+148110                          ,De 31 A 90 días,0,0
+148115                          ,De 91 A 180 días,0,0
+148120                          ,De 181 A 360 días,0,0
+148125                          ,De MÁS De 360 días,0,0
+1483                            ,CARTERA DE CRÉDITO EDUCATIVO REESTRUCURADA QUE NO DEVENGA INTERESES,0,0
+148305                          ,DE 1 A 30 días,0,0
+148310                          ,De 31 A 90 días,0,0
+148315                          ,De 91 A 180 días,0,0
+148320                          ,De 181 A 360 días,0,0
+148325                          ,De MÁS De 360 días,0,0
+1485                            ,CARTERA DE CRÉDITO EDUCATIVO VENCIDA,"9,189","18,282"
+148505                          ,DE 1 A 30 días,0,0
+148510                          ,De 31 A 90 días,844,"10,029"
+148515                          ,De 91 A 180 días,"2,070","8,253"
+148520                          ,De 181 A 360 días,"3,263",0
+148525                          ,De MÁS De 360 días,"3,013",0
+1487                            ,CARTERA DE CRÉDITO EDUCATIVO REFINANCIADA VENCIDA,0,0
+148705                          ,DE 1 A 30 días,0,0
+148710                          ,De 31 A 90 días,0,0
+148715                          ,De 91 A 180 días,0,0
+148720                          ,De 181 A 360 días,0,0
+148725                          ,De MÁS De 360 días,0,0
+1489                            ,CARTERA DE CRÉDITO EDUCATIVO REESTRUCTURADA VENCIDA,0,0
+148905                          ,DE 1 A 30 días,0,0
+148910                          ,De 31 A 90 días,0,0
+148915                          ,De 91 A 180 días,0,0
+148920                          ,De 181 A 360 días,0,0
+148925                          ,De MÁS De 360 días,0,0
+1491                            ,CARTERA REFINANCIADA COVID-19 POR VENCER,"112,133,861","7,527,779"
+149105                          ,PRODUCTIVO POR VENCER,"19,658,196","2,326,296"
+149120                          ,CONSUMO POR VENCER,"65,758,719","4,089,334"
+149130                          ,INMOBILIARIO POR VENCER,"4,077,885","1,016,673"
+149135                          ,VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO POR VENCER,0,0
+149140                          ,MICROCRÉDITO POR VENCER,"22,639,061","95,476"
+149145                          ,DE INVERSIÓN PÚBLICA POR VENCER,0,0
+149150                          ,EDUCATIVO POR VENCER,0,0
+1492                            ,CARTERA REFINANCIADA COVID-19 QUE NO DEVENGA INTERÉS,"18,010,542","1,608,701"
+149205                          ,PRODUCTIVO QUE NO DEVENGA INTERESES,"16,006,758","1,199,984"
+149220                          ,CONSUMO QUE NO DEVENGA INTERESES,"476,699","375,359"
+149230                          ,INMOBILIARIO QUE NO DEVENGA INTERESES,"9,969",0
+149235                          ,VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO QUE NO DEVENGA INTERESES,0,0
+149240                          ,MICROCRÉDITO QUE NO DEVENGA INTERESES,"1,517,116","33,357"
+149245                          ,DE INVERSIÓN PÚBLICA QUE NO DEVENGA INTERESES,0,0
+149250                          ,EDUCATIVO QUE NO DEVENGA INTERESES,0,0
+1493                            ,CARTERA REFINANCIADA COVID-19 VENCIDA,"6,161,035","386,287"
+149305                          ,PRODUCTIVO VENCIDA,"5,964,910","375,463"
+149320                          ,CONSUMO VENCIDA,"39,438","8,842"
+149330                          ,INMOBILIARIO VENCIDA,736,0
+149335                          ,VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO VENCIDA,0,0
+149340                          ,MICROCRÉDITO VENCIDA,"155,951","1,982"
+149345                          ,DE INVERSIÓN PÚBLICA VENCIDA,0,0
+149350                          ,EDUCATIVO VENCIDA,0,0
+1494                            ,CARTERA REESTRUCTURADA COVID-19 POR VENCER,"89,433,325","13,924,840"
+149405                          ,PRODUCTIVO POR VENCER,"10,208,063","2,742,898"
+149420                          ,CONSUMO POR VENCER,"21,545,981","9,999,335"
+149430                          ,INMOBILIARIO POR VENCER,"16,589,693","1,092,550"
+149435                          ,VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO POR VENCER,0,0
+149440                          ,MICROCRÉDITO POR VENCER,"40,983,868","90,056"
+149445                          ,DE INVERSIÓN PÚBLICA POR VENCER,0,0
+149450                          ,EDUCATIVO POR VENCER,"105,721",0
+1495                            ,CARTERA REESTRUCTURADA COVID-19 QUE NO DEVENGA INTERÉS,"9,254,890","3,547,632"
+149505                          ,PRODUCTIVO QUE NO DEVENGA INTERESES,"1,108,935","2,327,678"
+149520                          ,CONSUMO QUE NO DEVENGA INTERESES,"2,533,736","1,189,935"
+149530                          ,INMOBILIARIO QUE NO DEVENGA INTERESES,"1,064,657","16,355"
+149535                          ,VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO QUE NO DEVENGA INTERESES,0,0
+149540                          ,MICROCRÉDITO QUE NO DEVENGA INTERESES,"4,543,206","13,663"
+149545                          ,DE INVERSIÓN PÚBLICA QUE NO DEVENGA INTERESES,0,0
+149550                          ,EDUCATIVO QUE NO DEVENGA INTERESES,"4,356",0
+1496                            ,CARTERA REESTRUCTURADA COVID-19 VENCIDA,"2,091,202","652,345"
+149605                          ,PRODUCTIVO VENCIDA,"252,085","626,916"
+149620                          ,CONSUMO VENCIDA,"407,836","22,535"
+149630                          ,INMOBILIARIO VENCIDA,"793,960",671
+149635                          ,VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO VENCIDA,0,0
+149640                          ,MICROCRÉDITO VENCIDA,"635,080","2,222"
+149645                          ,DE INVERSIÓN PÚBLICA VENCIDA,0,0
+149650                          ,EDUCATIVO VENCIDA,"2,241",0
+1499                            ,(PROVISIONES PARA CRÉDITOS INCOBRABLES),"-1,013,944,677","-185,372,378"
+149905                          ,(CARTERA DE CRÉDITOS PRODUCTIVO),"-236,915,065","-42,285,610"
+149910                          ,(CARTERA DE CRÉDITOS DE CONSUMO),"-92,303,610","-22,221,334"
+149915                          ,(CARTERA DE CRÉDITOS INMOBILIARIO),"-18,943,228","-5,568,440"
+149920                          ,(CARTERA DE CRÉDITOS PARA MICROCRÉDITO),"-28,599,492","-541,522"
+149940                          ,(CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO),"-75,828",0
+149945                          ,(CARTERA DE CRÉDITO REFINANCIADA),"-26,331,910","-3,502,796"
+149950                          ,(CARTERA DE CRÉDITO REESTRUCTURADA),"-110,827,584","-48,250,785"
+149955                          ,(CARTERA DE CRÉDITO EDUCATIVO),"-232,583","-24,726"
+149980                          ,PROVISIÓN GÉNERICA POR TECNOLOGÍA CREDITICIA,0,0
+149985                          ,PROVISIÓN ANTICÍCLICA,"-171,611,827","-4,035,097"
+149987                          ,(PROVISIONES NO REVERSADAS POR REQUERIMIENTO NORMATIVO),"-48,334,346",0
+149989                          ,(PROVISIÓN GENERICA VOLUNTARIA),"-279,769,203","-58,942,068"
+15                              ,DEUDORES POR ACEPTACIONES,0,0
+1501                            ,Dentro del plazo,0,0
+1502                            ,Después del plazo,0,0
+16                              ,CUENTAS POR COBRAR,"244,412,193","68,418,434"
+1601                            ,INTERESES por cobrar de operaciones interbancarias,958,0
+160105                          ,Interbancarios vendidos,958,0
+160110                          ,Operaciones de reporto con instituciones financieras,0,0
+1602                            ,INTERESES por cobrar inversiones,"7,076,811","1,200,735"
+160205                          ,A valor razonable con cambios en el estado de resultados,0,0
+160210                          ,Disponibles para la venta,"5,598,855","1,165,708"
+160215                          ,Mantenidas hasta el vencimiento,"623,556","9,837"
+160220                          ,De disponibilidad restringida,"854,400","25,190"
+1603                            ,INTERESES POR COBRAR DE CARTERA DE CRÉDITOS,"98,602,867","51,335,340"
+160305                          ,CARTERA DE CRÉDITOS PRODUCTIVO,"34,448,930","22,383,423"
+160310                          ,CARTERA DE CRÉDITOS DE CONSUMO,"24,478,409","18,641,724"
+160315                          ,CARTERA DE CRÉDITO INMOBILIARIO,"11,371,080","6,065,230"
+160320                          ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO,"17,521,023","577,653"
+160340                          ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,"14,464",0
+160341                          ,CARTERA DE CRÉDITO EDUCATIVO,"2,246,090","9,198"
+160345                          ,CARTERA DE CRÉDITOS REFINANCIADA,"2,766,975","648,823"
+160350                          ,CARTERA DE CRÉDITOS REESTRUCTURADA,"5,755,895","3,009,289"
+1604                            ,Otros INTERESES por cobrar,"1,008,974",0
+1605                            ,Comisiones por cobrar,0,569
+160505                          ,Cartera de créditos,0,0
+160510                          ,Deudores por aceptación,0,0
+160515                          ,Operaciones contingentes,0,569
+160590                          ,Otras,0,0
+1606                            ,Rendimientos por cobrar de fideicomisos mercantiles,0,0
+1611                            ,Anticipo para adquisición de acciones,"14,647,939","1,839,999"
+1612                            ,Inversiones vencidas,"7,810,301","83,956"
+1613                            ,Dividendos pagados por anticipado,0,0
+1614                            ,Pagos por cuenta de clientes,"11,889,001","89,249"
+161405                          ,INTERESES,0,0
+161410                          ,Comisiones,0,0
+161415                          ,Gastos por operaciones contingentes,0,"3,284"
+161420                          ,Seguros,"5,912,677","3,533"
+161425                          ,Impuestos,"1,349",0
+161430                          ,Gastos judiciales,"3,245,631","82,433"
+161490                          ,Otros,"2,729,345",0
+1615                            ,INTERESES REESTRUCTURADOS POR COBRAR,"23,351,184","10,977,361"
+161505                          ,INTERESES DE CARTERA DE CRÉDITOS PRODUCTIVO,"3,156,535","1,009,185"
+161510                          ,INTERESES DE CARTERA DE CRÉDITOS DE CONSUMO ,"7,082,256","8,759,567"
+161515                          ,INTERESES DE CARTERA DE CRÉDITOS INMOBILIARIO,"5,603,901","1,092,738"
+161520                          ,INTERESES DE CARTERA DE CRÉDITOS PARA MICROCRÉDITO,"7,508,492","115,871"
+161540                          ,INTERESES DE CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+161545                          ,INTERESES DE CARTERA DE CRÉDITO EDUCATIVO,0,0
+1619                            ,CUENTAS POR COBRAR POR CARTERA DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO VENDIDA AL FIDEICOMISO DE TITULARIZACIÓN,"24,337,081",0
+1620                            ,Cuentas por cobrar IFTH y/o IECE,0,0
+162005                          ,De 1 a 30 días,0,0
+162010                          ,De 31 a 90 días,0,0
+162015                          ,De 91 a 180 días,0,0
+1690                            ,Cuentas por cobrar varias,"102,826,330","15,936,375"
+169005                          ,Anticipos al personal,"404,449","42,782"
+169010                          ,Préstamos de fondo de reserva,0,0
+169020                          ,Arrendamientos,0,0
+169025                          ,Establecimientos afiliados,"41,313,400",0
+169030                          ,Por venta de bienes y acciones,"20,387,442",0
+169035                          ,Juicios ejecutivos en proceso,0,0
+169040                          ,Emisión y renovación de tarjetas de crédito,"6,352,936","191,263"
+169090                          ,Otras,"34,368,103","15,702,329"
+1699                            ,(Provisión para cuentas por cobrar),"-47,139,252","-13,045,151"
+169905                          ,(Provisión para INTERESES y comisiones por cobrar),"-23,353,700","-10,990,448"
+169910                          ,(Provisión para otras cuentas por cobrar),"-23,785,552","-2,054,703"
+17                              ,"BIENES REALIZABLES, ADJUDICADOS POR PAGO, DE ARRENDAMIENTO MERCANTIL Y NO UTILIZADOS POR LA INSTITUCIÓN","23,414,400","14,327,407"
+1702                            ,Bienes adjudicados por pago,"24,944,936","10,784,064"
+170205                          ,Terrenos,"6,350,801","4,211,761"
+170210                          ,Edificios y otros locales,"14,530,229","2,913,716"
+170215                          ,"Mobiliario, maquinaria y equipo","108,128","5,225"
+170220                          ,Unidades de transporte,"389,082","390,929"
+170225                          ,Derechos fiduciarios,"2,840,612","3,262,433"
+170230                          ,Otros títulos valores,"726,084",0
+170235                          ,Mercaderías,0,0
+170240                          ,Acciones por acuerdos concordatorios,0,0
+170245                          ,Participaciones por acuerdos concordatorios,0,0
+170290                          ,Otros,0,0
+1703                            ,Bienes por arrendar,0,0
+170305                          ,Adquiridos,0,0
+170310                          ,Importaciones en tránsito,0,0
+1704                            ,Bienes recuperados,"316,493","24,145"
+170405                          ,Inmuebles,"115,394",0
+170410                          ,"Muebles, enseres y equipos de oficina","79,387",0
+170415                          ,Equipos de computación,0,0
+170420                          ,Unidades de transporte,0,"24,145"
+170425                          ,Equipos de construcción,0,0
+170430                          ,Equipo de ensilaje,0,0
+170490                          ,Otros,"121,712",0
+1705                            ,Bienes arrendados,"1,992,816","10,196,266"
+170505                          ,Inmuebles,"4,746,587","11,286,560"
+170510                          ,"Muebles, enseres y equipos de oficina","114,319",0
+170515                          ,Equipos de computación,"43,508",0
+170520                          ,Unidades de transporte,0,0
+170590                          ,Otros,0,0
+170599                          ,(Depreciación de bienes arrendados),"-2,911,597","-1,090,294"
+1706                            ,Bienes no utilizados por la institución,"11,321,357","1,288,389"
+170605                          ,Terrenos,"10,812,894","547,000"
+170610                          ,Edificios,"2,982,541","1,816,215"
+170620                          ,Remodelaciones en curso,0,0
+170690                          ,Otros,0,0
+170699                          ,(Depreciación de bienes no utilizados por la institución),"-2,474,078","-1,074,827"
+1799                            ,"(Provisión para bienes realizables, adjudicados por pago yrecuperados)","-15,161,202","-7,965,457"
+179910                          ,(Provisión para bienes adjudicados),"-14,844,709","-7,951,379"
+179915                          ,(Provisión para bienes recuperados),"-316,493","-14,078"
+179920                          ,(Provisión para bienes por acuerdos concordatorios),0,0
+18                              ,PROPIEDADES Y EQUIPO,"215,147,197","81,060,713"
+1801                            ,Terrenos,"44,171,198","4,269,350"
+1802                            ,Edificios,"580,651,630","69,783,215"
+1803                            ,Construcciones y remodelaciones en curso,"2,226,459",0
+1805                            ,"Muebles, enseres y equipos de oficina","72,840,183","14,473,524"
+1806                            ,Equipos de computación,"154,420,268","40,029,440"
+1807                            ,Unidades de transporte,"342,309","1,959,433"
+1890                            ,Otros,"986,444","1,053,183"
+1899                            ,(Depreciación acumulada),"-640,491,296","-50,507,432"
+189905                          ,(Edificios),"-483,195,953","-10,237,985"
+189915                          ,"(Muebles, enseres y equipos de oficina)","-47,653,427","-8,651,674"
+189920                          ,(Equipos de computación),"-109,325,703","-30,594,507"
+189925                          ,(Unidades de transporte),"-283,858","-1,023,266"
+189940                          ,(Otros),"-32,355",0
+19                              ,OTROS ACTIVOS,"871,003,014","208,249,131"
+1901                            ,Inversiones en acciones y participaciones,"413,371,137","13,092,218"
+190105                          ,En subsidiarias y afiliadas,"395,074,407","7,143,737"
+190110                          ,En otras instituciones financieras,"16,571,296","5,119,536"
+190115                          ,En compañías,"88,669",0
+190120                          ,En compañías de servicios auxiliares del sistema financiero,"1,636,765","828,945"
+1902                            ,Derechos fiduciarios,"311,579,944","119,091,453"
+190205                          ,Inversiones,"69,297","91,362"
+190210                          ,Cartera de créditos por vencer,0,"135,227"
+190215                          ,Cartera de créditos refinanciada por vencer,0,0
+190220                          ,Cartera de créditos reestructurada por vencer,0,0
+190221                          ,Cartera de créditos que no devenga INTERESES,0,0
+190225                          ,Cartera de créditos refinanciada que no devenga INTERESES,0,0
+190226                          ,Cartera de créditos reestructurada que no devenga INTERESES,0,0
+190230                          ,Cartera de créditos vencida,0,0
+190231                          ,Cartera de créditos refinanciada vencida,0,0
+190235                          ,Cartera de créditos reestructurada vencida,0,0
+190240                          ,Deudores por aceptación,0,0
+190245                          ,Cuentas por cobrar,0,"2,564,473"
+190255                          ,Bienes adjudicados por pago,0,0
+190260                          ,Bienes recuperados,0,0
+190265                          ,Bienes no utilizados por la institución,0,0
+190270                          ,Propiedades y equipo,"37,192,855","30,969,271"
+190275                          ,Otros activos,"15,000","1,000"
+190280                          ,Inversiones en acciones y participaciones,"77,518,509",0
+190285                          ,Fondos disponibles,"1,000","727,339"
+190286                          ,Fondos de liquidez,"196,783,283","84,602,781"
+1904                            ,Gastos y pagos anticipados,"54,554,101","15,693,603"
+190405                          ,INTERESES,"2,767,547","57,361"
+190410                          ,Anticipos a terceros,"29,053,020","534,956"
+190490                          ,Otros,"45,130,630","23,130,524"
+190499                          ,(Amortización de gastos anticipados),"-22,397,095","-8,029,239"
+1905                            ,Gastos diferidos,"35,876,683","54,015,381"
+190505                          ,Gastos de constitución y organización,0,"1,987"
+190510                          ,Gastos de instalación,0,0
+190515                          ,Estudios,"58,202,084","8,400"
+190520                          ,Programas de computación,"4,838,954","36,757,354"
+190525                          ,Gastos de adecuación,"5,050,024","32,855,123"
+190530                          ,Plusvalía mercantil,"1,484,499","17,251,541"
+190590                          ,Otros,0,"2,014,389"
+190599                          ,(Amortización acumulada gastos diferidos),"-33,698,878","-34,873,412"
+1906                            ,"Materiales, mercaderías e insumos",0,"702,316"
+190615                          ,Proveeduría,0,"702,316"
+1908                            ,Transferencias internas,0,0
+1909                            ,Derechos Fiduciarios recibidos por resolución bancaria,0,0
+190905                          ,De activos de instituciones financieras inviables,0,0
+190910                          ,De recursos provenientes de la COSEDE,0,0
+1910                            ,Divisas,0,0
+1990                            ,Otros,"103,781,602","6,142,958"
+199005                          ,Impuesto al valor agregado IVA,"2,443,274","1,997,888"
+199010                          ,Otros impuestos,"25,413,042",0
+199015                          ,Depósitos en garantía y para importaciones,"621,193","699,546"
+199025                          ,Faltantes de caja,"300,690",245
+199030                          ,Derechos de cobro por liquidar,"46,962,466",0
+199090                          ,Varias,"28,040,937","3,445,278"
+1999                            ,(Provisión para otros activos irrecuperables),"-48,160,453","-488,797"
+199905                          ,(Provisión para valuación de inversiones en acciones y participaciones),"-17,590,780","-75,289"
+199910                          ,(Provisión para valuación de derechos fiduciarios),"-13,166","-27,713"
+199990                          ,(Provisión para otros activos),"-30,556,507","-385,795"
+2                               ,PASIVOS,"12,493,845,221","5,815,384,205"
+21                              ,OBLIGACIONES CON EL PÚBLICO,"11,285,629,116","4,875,905,822"
+2101                            ,Depósitos a la vista,"7,609,674,083","3,015,988,019"
+210105                          ,Depósitos monetarios que generan INTERESES,"589,701,091","9,547,734"
+210110                          ,Depósitos monetarios que no generan INTERESES,"2,808,994,791","1,608,519,856"
+210115                          ,Depósitos monetarios de instituciones financieras,"144,666,354","108,694,409"
+210120                          ,EJECUCIÓN PRESUPUESTARIA,0,0
+210125                          ,Depósitos de otras instituciones para encaje,0,0
+210130                          ,Cheques certificados,"23,537,244","15,326,967"
+210131                          ,Cheques de emergencia,"6,719,455","9,427,109"
+210135                          ,Depósitos de ahorro,"3,947,177,290","1,208,602,210"
+210140                          ,Otros depósitos,"16,292,933","18,007,937"
+210145                          ,Fondos de tarjetahabientes,"5,074,414","5,402,133"
+210150                          ,Depósitos por confirmar,"59,368,776","32,457,967"
+210155                          ,Depósitos de cuenta básica,"8,141,737","1,698"
+2102                            ,Operaciones de reporto,0,0
+210205                          ,Operaciones de reporto financiero,0,0
+210210                          ,Operaciones de reporto por confirmar,0,0
+210215                          ,Operaciones de reporto bursátil,0,0
+2103                            ,Depósitos a plazo,"3,243,906,743","1,722,399,730"
+210305                          ,De 1 a 30 días,"710,311,362","352,121,766"
+210310                          ,De 31 a 90 días,"937,809,755","528,228,434"
+210315                          ,De 91 a 180 días,"822,345,768","446,473,898"
+210320                          ,De 181 A 360 días,"691,460,125","362,728,386"
+210325                          ,De más De 361 días,"81,979,734","32,627,246"
+210330                          ,Depósitos por confirmar,0,"220,000"
+2104                            ,Depósitos de garantía,"315,441",0
+2105                            ,Depósitos restringidos,"431,732,848","137,518,073"
+22                              ,OPERACIONES INTERBANCARIAS,0,0
+2201                            ,Fondos interbancarios comprados,0,0
+220105                          ,Bancos,0,0
+220110                          ,Otras instituciones del sistema financiero,0,0
+2202                            ,Operaciones de reporto con instituciones financieras,0,0
+220205                          ,Instituciones financieras públicas,0,0
+220210                          ,Bancos,0,0
+220215                          ,Otras instituciones del sistema financiero,0,0
+2203                            ,Operaciones por confirmar,0,0
+23                              ,OBLIGACIONES INMEDIATAS,"83,555,779","39,602,470"
+2301                            ,Cheques de gerencia,"1,776,789","1,853,230"
+2302                            ,"Giros, transferencias y cobranzas por pagar","55,929,803","26,175,373"
+230205                          ,Giros y transferencias,"55,929,803","24,475,727"
+230210                          ,Cobranzas,0,"1,699,646"
+2303                            ,Recaudaciones para el sector público,"25,849,187","11,573,867"
+2304                            ,Valores en circulación y cupones por pagar,0,0
+230405                          ,Bonos,0,0
+230410                          ,Obligaciones,0,0
+230415                          ,Otros títulos valores,0,0
+24                              ,ACEPTACIONES EN CIRCULACIÓN,0,0
+2401                            ,Dentro del plazo,0,0
+2402                            ,Después del plazo,0,0
+25                              ,CUENTAS POR PAGAR,"388,180,281","188,949,021"
+2501                            ,INTERESES por pagar,"67,500,690","35,712,996"
+250105                          ,Depósitos a la vista,"3,954,692","303,785"
+250110                          ,Operaciones de reporto,"3,378",0
+250115                          ,Depósitos a plazo,"56,777,311","27,587,100"
+250120                          ,Depósitos en garantía,0,0
+250125                          ,Fondos interbancarios comprados,0,0
+250130                          ,Operaciones de reporto con instituciones financieras,0,0
+250135                          ,Obligaciones financieras,"5,448,554","7,092,610"
+250140                          ,Bonos,0,"184,838"
+250145                          ,Obligaciones,"1,316,617",0
+250150                          ,Otros títulos valores,0,0
+250190                          ,Otros,139,"544,662"
+2502                            ,Comisiones por pagar,0,0
+2503                            ,Obligaciones patronales,"53,920,146","40,637,896"
+250305                          ,Remuneraciones,0,0
+250310                          ,Beneficios Sociales,"2,494,968","23,262,613"
+250315                          ,Aportes al IESS,"2,075,103",0
+250320                          ,Fondo de reserva IESS,"79,087",0
+250325                          ,Participación a empleados,"6,515,454","17,375,283"
+250330                          ,"Gastos de responsabilidad, residencia y representación",0,0
+250390                          ,Otras,"42,755,535",0
+2504                            ,Retenciones,"38,178,292","30,744,190"
+250405                          ,Retenciones fiscales,"36,791,079","26,763,839"
+250490                          ,Otras retenciones,"1,387,213","3,980,351"
+2505                            ,"Contribuciones, impuestos y multas","14,999,742","15,772,753"
+250505                          ,Impuesto a la renta,"9,424,987","15,717,337"
+250510                          ,Multas,0,0
+250590                          ,Otras contribuciones e impuestos,"5,574,754","55,416"
+2506                            ,Proveedores,"10,642,189",0
+2507                            ,Obligaciones por compra de cartera,0,781
+2508                            ,Garantías crediticias subrogadas pendientes de recuperación,0,0
+250805                          ,Créditos comerciales,0,0
+250810                          ,Créditos PARA MICROCRÉDITO,0,0
+250815                          ,Contingentes,0,0
+2510                            ,Cuentas por pagar a establecimientos afiliados,"7,058,886","20,137,078"
+2511                            ,Provisiones para aceptaciones bancarias y operaciones contingentes,"44,646,453","3,959,744"
+2590                            ,Cuentas por pagar varias,"151,233,883","41,983,583"
+259005                          ,Dividendos por pagar,"31,947,392","8,365,189"
+259015                          ,Cheques girados no cobrados,"241,133","163,626"
+259090                          ,Otras cuentas por pagar,"119,045,358","33,454,768"
+26                              ,OBLIGACIONES FINANCIERAS,"216,250,000","500,866,744"
+2601                            ,Sobregiros,0,"538,004"
+2602                            ,Obligaciones con instituciones financieras del país,0,0
+260205                          ,De 1 a 30 días,0,0
+260210                          ,De 31 a 90 días,0,0
+260215                          ,De 91 a 180 días,0,0
+260220                          ,De 181 A 360 días,0,0
+260225                          ,De más De 360 días,0,0
+2603                            ,Obligaciones con instituciones financieras del exterior,"216,250,000","322,282,051"
+260305                          ,De 1 a 30 días,0,"2,461,538"
+260310                          ,De 31 a 90 días,"10,416,667","13,944,444"
+260315                          ,De 91 a 180 días,"10,416,667","7,000,000"
+260320                          ,De 181 A 360 días,"30,833,333","35,833,983"
+260325                          ,De más De 360 días,"164,583,333","263,042,086"
+2604                            ,Obligaciones con entidades del grupo financiero en el país,0,0
+260405                          ,De 1 a 30 días,0,0
+260410                          ,De 31 a 90 días,0,0
+260415                          ,De 91 a 180 días,0,0
+260420                          ,De 181 A 360 días,0,0
+260425                          ,De más De 360 días,0,0
+2605                            ,Obligaciones con entidades del grupo financiero en el exterior,0,0
+260505                          ,De 1 a 30 días,0,0
+260510                          ,De 31 a 90 días,0,0
+260515                          ,De 91 a 180 días,0,0
+260520                          ,De 181 A 360 días,0,0
+260525                          ,De más De 360 días,0,0
+2606                            ,Obligaciones con entidades financieras del sector público,0,"102,399"
+260605                          ,De 1 a 30 días,0,"8,501"
+260610                          ,De 31 a 90 días,0,"18,913"
+260615                          ,De 91 a 180 días,0,"14,456"
+260620                          ,De 181 A 360 días,0,"25,999"
+260625                          ,De más De 360 días,0,"34,531"
+2607                            ,Obligaciones con organismos multilaterales,0,"164,375,000"
+260705                          ,De 1 a 30 días,0,0
+260710                          ,De 31 a 90 días,0,"11,875,000"
+260715                          ,De 91 a 180 días,0,"1,875,000"
+260720                          ,De 181 A 360 días,0,"128,750,000"
+260725                          ,De más De 360 días,0,"21,875,000"
+2608                            ,Préstamo subordinado,0,0
+260805                          ,De 1 a 30 días,0,0
+260810                          ,De 31 a 90 días,0,0
+260815                          ,De 91 a 180 días,0,0
+260820                          ,De 181 A 360 días,0,0
+260825                          ,De más De 360 días,0,0
+2609                            ,Obligaciones con entidades del sector público,0,0
+260905                          ,De 1 a 30 días,0,0
+260910                          ,De 31 a 90 días,0,0
+260915                          ,De 91 a 180 días,0,0
+260920                          ,De 181 A 360 días,0,0
+260925                          ,De más De 360 días,0,0
+2610                            ,Obligaciones con el fondo de liquidez del sistema financiero ecuatoriano,0,0
+261005                          ,Por crédito automático,0,0
+261010                          ,Por necesidades extraordinarias de liquidez,0,0
+261090                          ,POR OTROS CREDITOS DEL FONDO DE LIQUIDEZ,0,0
+2690                            ,Otras obligaciones,0,"13,569,290"
+269005                          ,De 1 a 30 días,0,0
+269010                          ,De 31 a 90 días,0,0
+269015                          ,De 91 a 180 días,0,0
+269020                          ,De 181 A 360 días,0,0
+269025                          ,De más De 360 días,0,"13,569,290"
+27                              ,VALORES EN CIRCULACIÓN,"212,500,000","50,000,000"
+2701                            ,Bonos,0,"50,000,000"
+270115                          ,Bonos emitidos por instituciones financieras privadas,0,"50,000,000"
+2702                            ,Obligaciones,"212,500,000",0
+270205                          ,Emitidas por instituciones financieras privadas,"212,500,000",0
+2703                            ,Otros títulos valores,0,0
+270305                          ,Cédulas hipotecarias,0,0
+270310                          ,Certificados de arrendamiento financiero,0,0
+270315                          ,Bonos de prenda,0,0
+270390                          ,Otros títulos valores,0,0
+2790                            ,Prima o descuento en colocación de valores en circulación,0,0
+28                              ,OBLIGACIONES CONVERTIBLES EN ACCIONES Y APORTES PARA FUTURA CAPITALIZACIÓN,"238,750,000","138,500,000"
+2801                            ,Obligaciones convertibles en acciones,0,0
+280105                          ,Obligaciones convertibles en acciones,0,0
+280110                          ,Prima y descuento en colocación de obligaciones,0,0
+2802                            ,Aportes para futura capitalización,0,0
+2803                            ,Deuda subordinada a plazo,"238,750,000","138,500,000"
+280305                          ,Contratos de deuda subordinada a plazo,"238,750,000","138,500,000"
+280310                          ,Instrumentos representativos de deuda subordinada,0,0
+29                              ,OTROS PASIVOS,"68,980,045","21,560,148"
+2901                            ,Ingresos recibidos por anticipado,"2,618,874","36,424"
+290105                          ,INTERESES recibidos por anticipado,0,0
+290115                          ,Rentas recibidas por anticipado,"516,669",0
+290120                          ,Afiliaciones y renovaciones,0,0
+290190                          ,Otros,"2,102,204","36,424"
+2902                            ,Consignación para pago de obligaciones,0,0
+2904                            ,Fondo de reserva empleados,0,"18,070"
+2908                            ,Transferencias internas,0,0
+2910                            ,Posición,0,0
+2912                            ,Minusvalía mercantil (Badwill),0,0
+2990                            ,Otros,"66,361,171","21,505,655"
+299005                          ,Sobrantes de caja,"4,774,233","15,973"
+299015                          ,Operaciones por liquidar proceso de cámara,"4,989,161",0
+299090                          ,Varios,"56,597,777","21,489,682"
+3                               ,PATRIMONIO,"1,307,280,212","482,957,784"
+31                              ,CAPITAL SOCIAL,"919,241,600","394,760,000"
+3101                            ,Capital pagado,"919,241,600","394,760,000"
+3102                            ,(Acciones en tesorería),0,0
+32                              ,PRIMA O DESCUENTO EN COLOCACIÓN DE ACCIONES Y CERTIFICADOS,0,"1,104,774"
+3201                            ,Prima EN COLOCACIÓN de acciones y certificados de aportación,0,"1,104,774"
+3202                            ,(Descuento en colocación de acciones),0,0
+33                              ,RESERVAS,"284,176,967","91,529,105"
+3301                            ,Legales,"145,100,644","62,680,189"
+3303                            ,Especiales,"108,190,099","28,848,916"
+330305                          ,A disposición de la Junta General de Accionistas,0,0
+330310                          ,Para futuras capitalizaciones,"108,190,099","28,848,916"
+330390                          ,Otras,0,0
+3304                            ,Reserva para readquisición de acciones propias,0,0
+3305                            ,Revalorización del patrimonio,"30,886,224",0
+3310                            ,Por resultados no operativos,0,0
+34                              ,OTROS APORTES PATRIMONIALES,0,0
+3402                            ,Donaciones,0,0
+340205                          ,En efectivo,0,0
+340210                          ,En bienes,0,0
+3490                            ,Otros,0,0
+35                              ,SUPERÁVIT POR VALUACIONES,"82,773,614","-4,787,290"
+3501                            ,"Superávit por valuación de propiedades, equipo y otros","100,610,154","14,754,038"
+3502                            ,Superávit por valuación de inversiones en acciones,"-453,792","1,084,993"
+3503                            ,Valuación inversión neta en un negocio en el extranjero,0,0
+3504                            ,Valuación de inversiones en instrumentos financieros,"-17,382,748","-20,626,321"
+36                              ,RESULTADOS,"21,088,032","351,195"
+3601                            ,Utilidades o excedentes acumulados,"21,088,032","351,195"
+3602                            ,(Pérdidas acumuladas),0,0
+3603                            ,Utilidad o excedente del ejercicio,0,0
+3604                            ,(Pérdida del ejercicio),0,0
+37                              ,(DESVALORIZACIÓN DEL PATRIMONIO),0,0
+4                               ,GASTOS,"364,339,220","131,030,251"
+41                              ,INTERESES CAUSADOS,"56,347,058","29,175,337"
+4101                            ,Obligaciones con el público,"48,395,379","21,401,191"
+410105                          ,Depósitos monetarios,"2,459,471","442,723"
+410110                          ,Depósitos monetarios de instituciones financieras,0,"63,790"
+410115                          ,Depósitos de ahorro,"4,647,679","1,003,464"
+410120                          ,Fondos de tarjetahabientes,"11,279",488
+410125                          ,Operaciones de reporto,0,0
+410130                          ,Depósitos a plazo,"41,274,708","19,890,182"
+410135                          ,Depósitos de garantía,0,0
+410140                          ,Depósitos de cuenta básica,0,0
+410190                          ,Otros,"2,242",544
+4102                            ,Operaciones interbancarias,0,0
+410205                          ,Fondos interbancarios comprados,0,0
+410210                          ,Operaciones de reporto con instituciones financieras,0,0
+4103                            ,Obligaciones financieras,"6,772,636","7,589,308"
+410305                          ,Sobregiros,0,11
+410310                          ,Obligaciones con instituciones financieras del país,0,0
+410315                          ,Obligaciones con instituciones financieras del exterior,"5,638,142","3,393,865"
+410320                          ,Obligaciones con entidades del grupo financiero en el país,0,0
+410325                          ,Obligaciones con entidades del grupo financiero en el exterior,0,0
+410330                          ,Obligaciones con entidades financieras del sector público,0,"2,534"
+410335                          ,Obligaciones con organismos multilaterales,"1,134,494","1,525,731"
+410340                          ,Préstamo subordinado,0,"2,511,472"
+410345                          ,Obligaciones con entidades del sector público,0,0
+410350                          ,Otras obligaciones,0,"155,694"
+4104                            ,Valores en circulación y obligaciones convertibles en acciones,"1,177,088","184,838"
+410405                          ,Bonos,0,"184,838"
+410410                          ,Obligaciones,"1,177,088",0
+410415                          ,Otros títulos valores,0,0
+410420                          ,Obligaciones convertibles en acciones,0,0
+4105                            ,Otros INTERESES,"1,955",0
+410590                          ,Otros,"1,955",0
+42                              ,COMISIONES CAUSADAS,"924,875","571,400"
+4201                            ,Obligaciones financieras,"10,418","248,242"
+4202                            ,Operaciones contingentes,"46,256","75,231"
+4203                            ,Cobranzas,"37,331",0
+4204                            ,Por operaciones de permuta financiera,0,0
+4205                            ,Servicios fiduciarios,"3,750",0
+4290                            ,Varias,"827,120","247,927"
+43                              ,PÉRDIDAS FINANCIERAS,"5,996,874","287,101"
+4301                            ,Pérdida en cambio,"70,464",0
+4302                            ,En valuación de inversiones,"5,667,542","139,613"
+4303                            ,En venta de activos productivos,0,167
+430305                          ,En venta de inversiones,0,167
+430310                          ,En venta de cartera de créditos,0,0
+430390                          ,Otras,0,0
+4304                            ,Pérdidas por fideicomiso mercantil,0,"144,700"
+4305                            ,Prima de inversiones en títulos valores,0,45
+4306                            ,Primas en cartera comprada,"258,869","2,576"
+44                              ,PROVISIONES,"97,093,239","20,987,622"
+4401                            ,Inversiones,0,0
+4402                            ,CARTERA DE CRÉDITOS,"86,199,556","17,425,630"
+440210                          ,CRÉDITO PRODUCTIVO,"25,586,049","4,288,320"
+440220                          ,CRÉDITO DE CONSUMO ,"27,288,726","12,545,741"
+440230                          ,CRÉDITO INMOBILIARIO,"5,951,162","400,387"
+440235                          ,CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+440240                          ,MICROCRÉDITO,"27,289,955","186,469"
+440245                          ,CRÉDITO EDUCATIVO,"83,664","4,713"
+4403                            ,Cuentas por cobrar,"6,740,116","3,003,430"
+4404                            ,"Bienes realizables, adjudicados por pago y de arrendamiento mercantil",0,"45,192"
+4405                            ,Otros activos,"4,153,567","140,000"
+4406                            ,Operaciones contingentes,0,"373,370"
+4407                            ,Operaciones interbancarias y de reporto,0,0
+45                              ,GASTOS DE OPERACIÓN,"165,527,073","62,618,171"
+4501                            ,Gastos de personal,"36,716,362","16,203,856"
+450105                          ,Remuneraciones mensuales,"23,407,680","10,396,183"
+450110                          ,Beneficios sociales,"4,730,144","1,111,990"
+450115                          ,"Gastos de representación, residencia y responsabilidad","14,358",0
+450120                          ,Aportes al IESS,"3,131,669","1,238,103"
+450125                          ,Impuesto a la renta del personal,0,0
+450130                          ,Pensiones y jubilaciones,"1,621,949","900,000"
+450135                          ,Fondo de reserva IESS,0,"802,149"
+450190                          ,Otros,"3,810,562","1,755,432"
+4502                            ,Honorarios,"22,141,688","1,642,454"
+450205                          ,Directores,"117,840","108,000"
+450210                          ,Honorarios profesionales,"22,023,848","1,534,454"
+4503                            ,Servicios varios,"44,414,146","23,388,453"
+450305                          ,"Movilización, fletes y embalajes","895,283","176,523"
+450310                          ,Servicios de guardianía,"1,518,931","568,331"
+450315                          ,Publicidad y propaganda,"5,031,087","4,436,135"
+450320                          ,Servicios básicos,"2,751,476","1,072,296"
+450325                          ,Seguros,"2,592,254","175,385"
+450330                          ,Arrendamientos,"3,849,951","1,205,537"
+450390                          ,Otros servicios,"27,775,165","15,754,248"
+4504                            ,"Impuestos, contribuciones y multas","26,466,908","12,030,434"
+450405                          ,Impuestos Fiscales,"4,620,212","1,238,813"
+450410                          ,Impuestos Municipales,"1,637,364","722,067"
+450415                          ,Aportes a la Superintendencia de Bancos y Seguros,"3,848,622","1,729,528"
+450420                          ,Aportes al COSEDE por prima fija,"15,644,124","6,986,478"
+450421                          ,Aportes al COSEDE por prima ajustada,"521,471","232,883"
+450430                          ,Multas y otras sanciones,"2,247",0
+450490                          ,Impuestos y aportes para otros organismos e instituciones,"192,868","1,120,665"
+4505                            ,Depreciaciones,"7,429,283","1,802,367"
+450505                          ,Bienes arrendados,"6,747","49,910"
+450510                          ,Bienes no utilizados por la institución,"24,444","9,081"
+450515                          ,Edificios,"778,580","348,915"
+450520                          ,Otros locales,0,0
+450525                          ,"Muebles, enseres y equipos de oficina","1,339,159","245,116"
+450530                          ,Equipos de computación,"5,277,934","1,077,657"
+450535                          ,Unidades de transporte,"2,378","71,688"
+450540                          ,Equipos de construcción,0,0
+450545                          ,Equipo de ensilaje,0,0
+450590                          ,Otros,40,0
+4506                            ,Amortizaciones,"3,807,712","2,780,094"
+450605                          ,Gastos anticipados,0,"7,283"
+450610                          ,Gastos de constitución y organización,0,50
+450615                          ,Gastos de instalación,0,0
+450620                          ,Estudios,"2,406,582",140
+450625                          ,Programas de computación,"1,019,248","1,723,807"
+450630                          ,Gastos de adecuación,"315,238","617,526"
+450635                          ,Plusvalía mercantil,"66,644","431,289"
+450690                          ,Otros,0,0
+4507                            ,Otros gastos,"24,550,974","4,770,513"
+450705                          ,Suministros diversos,"478,549","374,358"
+450710                          ,Donaciones,"37,969","54,800"
+450715                          ,Mantenimiento y reparaciones,"11,283,743","2,880,834"
+450790                          ,Otros,"12,750,714","1,460,521"
+46                              ,OTRAS PÉRDIDAS OPERACIONALES,"17,512,652","543,886"
+4601                            ,Pérdida en acciones y participaciones,"14,919,172","538,801"
+4602                            ,Pérdida en venta de bienes realizables y recuperados,0,"5,085"
+4690                            ,Otras,"2,593,480",0
+47                              ,OTROS GASTOS Y PÉRDIDAS,"4,997,008","482,733"
+4701                            ,Pérdida en venta de bienes,"6,128","88,565"
+4702                            ,Pérdida en venta de acciones y participaciones,0,0
+4703                            ,INTERESES y comisiones devengados en ejercicios anteriores,"4,990,880","394,168"
+4790                            ,Otros,0,0
+48                              ,IMPUESTOS Y PARTICIPACIÓN A EMPLEADOS,"15,940,441","16,364,000"
+4810                            ,Participación a empleados,"6,515,454","6,470,000"
+4815                            ,Impuesto a la renta,"9,424,987","9,894,000"
+4890                            ,Otros,0,0
+5                               ,INGRESOS,"401,218,370","147,884,277"
+51                              ,INTERESES Y DESCUENTOS GANADOS,"290,062,005","102,281,560"
+5101                            ,Depósitos,"32,817","449,931"
+510105                          ,Depósitos para encaje,"4,282",0
+510110                          ,Depósitos en bancos y otras instituciones financieras,"4,487","438,147"
+510115                          ,Overnight,"24,048","11,783"
+5102                            ,Operaciones interbancarias,"3,928",0
+510205                          ,Fondos interbancarios vendidos,"3,928",0
+510210                          ,Operaciones de reporto,0,0
+5103                            ,INTERESES y descuentos de inversiones en títulos valores,"20,404,934","2,542,785"
+510305                          ,Inversiones a valor razonable con cambios en el estado de resultados,0,0
+510310                          ,Disponibles para la venta,"18,923,273","2,482,563"
+510315                          ,Mantenidas hasta el vencimiento,"1,481,661","30,529"
+510320                          ,De disponibilidad restringida,0,"29,693"
+5104                            ,INTERESES Y DESCUENTOS DE CARTERA DE CRÉDITOS,"268,952,314","99,288,844"
+510405                          ,CARTERA DE CRÉDITOS PRODUCTIVO,"59,848,538","47,384,503"
+510410                          ,CARTERA DE CRÉDITOS DE CONSUMO ,"106,972,829","39,375,766"
+510415                          ,CARTERA DE CRÉDITOS INMOBILIARIO,"15,412,108","5,996,901"
+510420                          ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO,"61,560,484","890,264"
+510427                          ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,"1,039,081",0
+510428                          ,CARTERA DE CRÉDITO EDUCATIVO,"415,501","19,705"
+510430                          ,CARTERA DE CRÉDITO REFINANCIADA,"5,076,896","658,875"
+510435                          ,CARTERA DE CRÉDITO REESTRUCTURADA,"13,703,918","3,468,161"
+510450                          ,DE MORA,"4,909,988","1,059,790"
+510455                          ,DESCUENTOS DE CARTERA COMPRADA,"12,973","434,879"
+5190                            ,Otros INTERESES y descuentos,"668,012",0
+519005                          ,Por pagos por cuenta de clientes,0,0
+519090                          ,Otros,"668,012",0
+52                              ,COMISIONES GANADAS,"4,834,212","6,473,271"
+5201                            ,Cartera de créditos,0,0
+520105                          ,Cartera de créditos productivo,0,0
+520110                          ,Cartera de créditos de consumo,0,0
+520115                          ,Cartera de créditos de vivienda,0,0
+520120                          ,Cartera de créditos PARA MICROCRÉDITO,0,0
+520125                          ,Cartera de créditos reestructurada,0,0
+5202                            ,Deudores por aceptación,0,0
+5203                            ,Avales,"632,187","114,330"
+5204                            ,Fianzas,"2,018,831","1,044,404"
+5205                            ,Cartas de Crédito,"354,143","691,326"
+5290                            ,Otras,"1,829,052","4,623,212"
+53                              ,UTILIDADES FINANCIERAS,"6,405,517","2,588,807"
+5301                            ,Ganancia en cambio,0,"1,420,388"
+5302                            ,En valuación de inversiones,"6,274,479","1,094,053"
+5303                            ,En venta de activos productivos,"11,561","20,575"
+530305                          ,En venta de inversiones,"11,561","20,575"
+530310                          ,En venta de cartera de créditos,0,0
+530390                          ,Otras,0,0
+5304                            ,Rendimientos por fideicomiso mercantil,"115,880","48,363"
+5305                            ,Arrendamiento financiero,"3,598","5,427"
+54                              ,INGRESOS POR SERVICIOS,"46,588,351","20,251,560"
+5404                            ,Manejo y cobranzas,0,"33,009"
+5406                            ,Servicios financieros con cargo máximo,"26,698,855","14,229,492"
+540601                          ,Servicios con cuentas,"8,708,467","1,641,368"
+540602                          ,Servicios con cheques,"1,960,742","681,722"
+540603                          ,Servicios con tarjetas,"9,588,704","4,446,217"
+540604                          ,Servicios con otros valores,0,0
+540605                          ,Servicios de transferencias,"2,756,500","2,967,143"
+540606                          ,Servicios de giros y remesas,0,0
+540607                          ,Servicios transaccionales,0,0
+540608                          ,Servicios de cobros y pagos,"108,450","539,861"
+540609                          ,Servicios de recuperación de cartera,0,"1,910,359"
+540610                          ,Servicios de custodia,0,0
+540611                          ,Servicios de gestión de facturas,0,0
+540612                          ,Servicios de planes de recompensa,"2,067,380","1,141,195"
+540613                          ,Servicios de prestaciones en el exterior,"1,146,172","619,193"
+540614                          ,Servicios de seguridad,127,"187,776"
+540615                          ,Servicios de transporte de valores,0,0
+540616                          ,Servicios de soporte de cuentas,0,0
+540617                          ,Servicios de gestión de documentos,"12,796","10,828"
+540618                          ,Servicios de certificaciones,"349,519","83,830"
+540619                          ,Servicios de soporte empresarial,0,0
+540620                          ,Servicios de publicaciones,0,0
+540621                          ,Otros servicios de soporte,0,0
+540690                          ,Otros servicios financieros con cargo máximo,0,0
+5407                            ,Servicios financieros con cargo diferenciado,"19,889,495","5,989,058"
+540701                          ,Servicios con cuentas,"453,597","21,192"
+540702                          ,Servicios con cheques,11,"8,399"
+540703                          ,Servicios con tarjetas,"4,950,290","3,530,395"
+540704                          ,Servicios con otros valores,0,0
+540705                          ,Servicios de transferencias,"920,242","10,715"
+540706                          ,Servicios de giros y remesas,"30,280",0
+540707                          ,Servicios transaccionales,0,0
+540708                          ,Servicios de cobros y pagos,"9,919,281","1,532,353"
+540709                          ,Servicios de recuperación de cartera,0,0
+540710                          ,Servicios de custodia,"23,093","787,315"
+540711                          ,Servicios de gestión de facturas,0,0
+540712                          ,Servicios de planes de recompensa,0,0
+540713                          ,Servicios de prestaciones en el exterior,0,0
+540714                          ,Servicios de seguridad,0,0
+540715                          ,Servicios de transporte de valores,0,0
+540716                          ,Servicios de soporte de cuentas,0,"71,675"
+540717                          ,Servicios de gestión de documentos,"41,886","26,681"
+540718                          ,Servicios de certificaciones,0,0
+540719                          ,Servicios de soporte empresarial,0,0
+540720                          ,Servicios de publicaciones,"3,550,815",0
+540721                          ,Otros servicios de soporte,0,334
+5490                            ,Otros servicios,0,0
+55                              ,OTROS INGRESOS OPERACIONALES,"30,239,356","4,302,632"
+5501                            ,Utilidades en acciones y participaciones,"20,834,510","1,248,215"
+5502                            ,Utilidad en venta de bienes realizables y recuperados,0,0
+5590                            ,Otros,"9,404,846","3,054,417"
+56                              ,OTROS INGRESOS,"23,088,928","11,986,448"
+5601                            ,Utilidad en venta de bienes,"1,350,047","9,148"
+5602                            ,Utilidad en venta de acciones y participaciones,0,"71,580"
+5603                            ,Arrendamientos,"565,045","388,067"
+5604                            ,Recuperaciones de activos financieros,"19,975,926","9,916,847"
+560405                          ,De activos castigados,"11,009,839","9,328,718"
+560410                          ,Reversión de provisiones,"2,939,325","292,056"
+560415                          ,Devolución de impuestos y multas,0,0
+560420                          ,INTERESES y comisiones de ejercicios anteriores,"6,026,763","296,074"
+5690                            ,Otros,"1,197,911","1,600,806"
+59                              ,Pérdidas y ganancias,0,0
+6                               ,CUENTAS CONTINGENTES,"4,266,261,122","1,666,893,864"
+61                              ,DEUDORAS,"262,738,628","3,131,355"
+6101                            ,Compras a futuro de moneda extranjera,"182,988,628","3,131,355"
+610105                          ,A término no negociables,"118,039,668","3,131,355"
+610110                          ,A término negociables,0,0
+610115                          ,Con pacto de retroventa,0,0
+610120                          ,Opción de compra venta,"64,948,960",0
+6102                            ,Ventas a futuro en moneda local,0,0
+610205                          ,A término no negociables,0,0
+610210                          ,A término negociables,0,0
+610215                          ,Con pacto de retroventa,0,0
+610220                          ,Opción de compra venta,0,0
+6103                            ,Derechos en opciones,"79,750,000",0
+6104                            ,Derechos por operaciones swap,0,0
+6105                            ,Otras operaciones a futuro,0,0
+6190                            ,Otras cuentas contingentes deudoras,0,0
+64                              ,ACREEDORAS,"4,003,522,494","1,663,762,509"
+6401                            ,Avales,"14,357,386","30,481,539"
+640105                          ,Avales comunes,"14,357,386","28,981,539"
+640110                          ,Avales con garantía de instituciones financieras del exterior,0,"1,500,000"
+6402                            ,Fianzas y garantías,"523,330,722","230,350,591"
+640205                          ,Garantías aduaneras,"12,944,962","30,226,161"
+640210                          ,Garantías Corporación Financiera Nacional,0,0
+640215                          ,Fianzas con garantía de instituciones financieras del exterior,"106,525,786","162,196,348"
+640290                          ,Otras,"403,859,974","37,928,082"
+6403                            ,Cartas de crédito,"54,641,826","114,098,186"
+640305                          ,Emitidas por la institución,"54,015,955","100,623,043"
+640310                          ,Emitidas por cuenta de la institución,0,"12,795,158"
+640315                          ,Confirmadas,"625,871","679,985"
+6404                            ,CRÉDITOS APROBADOS NO DESEMBOLSADOS,"2,741,194,183","1,285,700,839"
+640405                          ,CARTERA DE CRÉDITOS PRODUCTIVO,"179,187,352","138,582,210"
+640410                          ,CARTERA DE CRÉDITOS DE CONSUMO ,"2,524,743,359","1,142,272,098"
+640415                          ,CARTERA DE CRÉDITOS INMOBILIARIO,0,0
+640420                          ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO,"37,263,473","4,846,531"
+640440                          ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+640445                          ,CARTERA DE CRÉDITOS EDUCATIVO,0,0
+6405                            ,Compromisos futuros,0,0
+640505                          ,Riesgo asumido por cartera vendida,0,0
+640510                          ,Riesgo asumido en cartera permutada,0,0
+640515                          ,Factoring de importación,0,0
+640590                          ,Otros compromisos,0,0
+6407                            ,Compras a futuro en moneda local,0,0
+640705                          ,A término no negociables,0,0
+640710                          ,A término negociables,0,0
+640715                          ,Con pacto de retroventa,0,0
+640720                          ,Opción de compra - venta,0,0
+6408                            ,Ventas a futuro en moneda extranjera,"596,548,376","3,131,355"
+640805                          ,A término no negociables,"541,599,416","3,131,355"
+640810                          ,A término negociables,0,0
+640815                          ,Con pacto de retroventa,0,0
+640820                          ,Opción de compra - venta,"54,948,960",0
+6409                            ,Obligaciones en opciones,"73,450,000",0
+6410                            ,Obligaciones por operaciones swap,0,0
+6411                            ,Otras operaciones a futuro,0,0
+6490                            ,Otras cuentas contingentes acreedoras,0,0
+7                               ,CUENTAS DE ORDEN,"36,146,111,141","10,446,275,890"
+71                              ,CUENTAS DE ORDEN DEUDORAS,"6,449,841,991","701,766,998"
+7101                            ,Valores y bienes propios en poder de terceros,"2,133,608,858","1,852,053"
+710105                          ,En cobranza,"64,936",0
+710110                          ,En custodia,"2,126,711,833",0
+710115                          ,Bienes entregados en arrendamiento financiero,"6,832,089","1,852,053"
+710120                          ,Cánones en arrendamiento financiero vendidos,0,0
+710125                          ,En comodato,0,0
+710190                          ,Otros,0,0
+7102                            ,ACTIVOS PROPIOS EN PODER DE TERCEROS ENTREGADOS EN GARANTÍA,"853,226,777","55,056,225"
+710205                          ,Inversiones a valor RAZONABLE CON cambios en el estado de resultados,0,0
+710210                          ,Inversiones disponibles para la venta,"69,297",0
+710215                          ,Inversiones mantenidas hasta el vencimiento,0,0
+710220                          ,Inversiones de disponibilidad restringida,"168,883,014","14,933,779"
+710225                          ,CARTERA DE CRÉDITOS PRODUCTIVO,0,"9,153,175"
+710230                          ,CARTERA DE CRÉDITOS DE CONSUMO,0,0
+710235                          ,CARTERA DE CRÉDITO INMOBILIARIO,0,0
+710240                          ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO,0,0
+710260                          ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+710261                          ,CARTERA DE CRÉDITO EDUCATIVO,0,0
+710265                          ,CARTERA DE CRÉDITOS REFINANCIADA,0,0
+710270                          ,CARTERA DE CRÉDITOS REESTRUCTURADA,0,0
+710275                          ,Bienes muebles,0,0
+710280                          ,Bienes inmuebles,"28,326,189","30,969,271"
+710290                          ,Otros Activos,"655,948,277",0
+7103                            ,Activos castigados,"595,761,468","207,085,486"
+710305                          ,Inversiones,"394,074","47,882"
+710310                          ,Cartera de créditos,"583,078,050","160,792,034"
+710315                          ,Deudores por aceptación,0,0
+710320                          ,Cuentas por cobrar,"12,100,204","46,245,569"
+710325                          ,"Bienes realizables, adjudicados por pago y arrendamiento mercantil",0,0
+710330                          ,Otros activos,"189,140",0
+7104                            ,Líneas de crédito no utilizadas,0,"188,420,422"
+710405                          ,Del país,0,"62,172,934"
+710410                          ,Del exterior,0,"126,247,488"
+7105                            ,Operaciones activas con empresas vinculadas,0,"726,544"
+710505                          ,Inversiones,0,0
+710510                          ,Cartera de créditos,0,"726,544"
+710515                          ,Deudores por aceptación,0,0
+710520                          ,Cuentas por cobrar,0,0
+710525                          ,"Bienes realizables, adjudicados por pago y arrendamiento mercantil",0,0
+710530                          ,Otros activos,0,0
+710535                          ,Operaciones contingentes,0,0
+7106                            ,Operaciones activas con entidades del grupo financiero,"598,960,049","7,261,408"
+710605                          ,Inversiones,"486,917,926","5,565,385"
+710610                          ,Cartera de créditos,"97,394,184","193,941"
+710615                          ,Deudores por aceptación,0,0
+710620                          ,Cuentas por cobrar,"14,647,939","1,500,977"
+710625                          ,"Bienes realizables, adjudicados por pago y arrendamiento mercantil",0,0
+710630                          ,Otros activos,0,"1,105"
+710635                          ,Operaciones contingentes,0,0
+7107                            ,CARTERA DE CRÉDITOS Y OTROS ACTIVOS EN DEMANDA JUDICIAL,"346,827,611","94,371,791"
+710705                          ,PRODUCTIVO,"101,455,086","17,161,676"
+710710                          ,CONSUMO,"49,085,882","46,252,600"
+710715                          ,INMOBILIARIO,"34,752,435","8,681,076"
+710720                          ,PARA MICROCRÉDITO,"13,687,580","1,092,051"
+710740                          ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,"5,201,520",0
+710741                          ,CARTERA DE CRÉDITO EDUCATIVO,0,0
+710745                          ,REFINANCIADA,"18,985,256","5,790,336"
+710750                          ,REESTRUCTURADA,"123,659,851","15,394,051"
+710755                          ,INVERSIONES,0,0
+710760                          ,CUENTAS POR COBRAR,0,0
+710790                          ,OTROS ACTIVOS,0,0
+7109                            ,"INTERESES, COMISIONES E INGRESOS EN SUSPENSO","516,890,572","11,951,371"
+710905                          ,CARTERA DE CRÉDITOS PRODUCTIVO,"164,060,165","2,722,420"
+710910                          ,CARTERA DE CRÉDITOS DE CONSUMO,"171,397,318","6,126,377"
+710915                          ,CARTERA DE CRÉDITO INMOBILIARIO,"26,196,821","773,293"
+710920                          ,CARTERA DE CRÉDITOS PARA MICROCRÉDITO,"26,557,183","72,581"
+710940                          ,CARTERA DE CRÉDITOS DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,"71,531",0
+710941                          ,CARTERA DE CRÉDITO EDUCATIVO,"8,864","3,121"
+710945                          ,CARTERA DE CRÉDITOS REFINANCIADA,"8,930,723","464,401"
+710950                          ,CARTERA DE CRÉDITOS REESTRUCTURADA,"119,667,967","1,789,178"
+710990                          ,OTROS,0,0
+7110                            ,Contratos de arrendamiento mercantil financiero,"886,845","1,065,289"
+711005                          ,Cánones por recibir,"206,056","180,467"
+711010                          ,Opción de compra,"333,638","482,077"
+711015                          ,Descuentos concedidos,"347,151","402,746"
+7111                            ,Activos adquiridos,0,0
+711105                          ,Operaciones interbancarias,0,0
+711110                          ,Inversiones,0,0
+711115                          ,"Cartera de créditos, deudores por aceptaciones y contingentes",0,0
+711120                          ,Cuentas por cobrar,0,0
+711125                          ,"Bienes realizables, adjudicados por pago, de arrendamiento mercantil y no utilizados por la institución",0,0
+711130                          ,Propiedades y equipo,0,0
+711135                          ,Otros activos,0,0
+7112                            ,OBLIGACIONES EXTINGUIDAS POR ACUERDOS CONCORDATORIOS Y OTROS CONTRATOS,0,"891,418"
+711205                          ,CARTERA DE CRÉDITO PRODUCTIVO,0,"782,334"
+711210                          ,CARTERA DE CRÉDITO DE CONSUMO,0,"109,083"
+711215                          ,CARTERA DE CRÉDITO DE VIVIENDA,0,0
+711220                          ,CARTERA DE MICROCRÉDITOS,0,0
+7113                            ,Inversiones por vencimiento,0,0
+711305                          ,Corto plazo,0,0
+711310                          ,Largo plazo,0,0
+7114                            ,OBLIGACIONES EXTINGUIDAS POR OTROS CONTRATOS,0,0
+711405                          ,CARTERA DE CRÉDITO PRODUCTIVO,0,0
+711410                          ,CARTERA DE CRÉDITO DE CONSUMO,0,0
+711415                          ,CARTERA DE CRÉDITO INMOBILIARIO,0,0
+711420                          ,CARTERA DE MICROCRÉDITOS,0,0
+7117                            ,CARTERA ENTREGADA PARA PROCESOS DE TITULARIZACIÓN,"597,518,807","6,440,077"
+711710                          ,CARTERA DE CRÉDITO PRODUCTIVO,0,0
+711720                          ,CARTERA DE CRÉDITO DE CONSUMO ,0,0
+711730                          ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,"427,790,209",0
+711735                          ,CARTERA DE CRÉDITO INMOBILIARIO,"169,728,598","6,440,077"
+711740                          ,CARTERA DE CRÉDITO PARA MICROCRÉDITO,0,0
+711745                          ,CARTERA DE CRÉDITO EDUCATIVO,0,0
+7190                            ,Otras cuentas de orden deudoras,"806,161,004","126,644,914"
+719005                          ,Cobertura de seguros,"530,602,748","35,279,797"
+719010                          ,Multas e impuestos en reclamo,0,0
+719015                          ,Títulos por emitir,0,0
+719020                          ,Títulos emitidos no vendidos,"162,328,100",0
+719025                          ,Títulos propia emisión recomprados,0,0
+719035                          ,Títulos y cupones por incinerar,0,0
+719045                          ,Títulos de inversiones comprados con pacto de reventa,0,0
+719090                          ,Otras cuentas de orden,"113,230,156","91,365,117"
+74                              ,CUENTAS DE ORDEN ACREEDORAS,"29,696,269,150","9,744,508,892"
+7401                            ,VALORES Y BIENES RECIBIDOS DE TERCEROS,"28,160,662,618","8,818,946,692"
+740105                          ,En cobranza ,"530,507,992","13,577,468"
+740110                          ,Documentos en garantía ,"12,789,331,195","2,005,086,994"
+740115                          ,Valores fiduciarios en garantía ,"553,228,344","158,931,294"
+740120                          ,Bienes inmuebles en garantía ,"10,955,843,633","3,916,453,626"
+740125                          ,Otros bienes en garantía ,"2,188,441,309","858,313,144"
+740130                          ,En custodia ,"95,381,571","1,866,119,296"
+740135                          ,En administración ,"445,512,380",0
+740140                          ,En comodato ,0,0
+740150                          ,Cartera de crédito productivo en administración ,0,0
+740160                          ,Cartera de crédito de CONSUMO EN administración ,0,0
+740170                          ,Cartera de crédito de vivienda de interés social y público en administración,"432,816,577",0
+740175                          ,Cartera de crédito inmobiliario en administración ,"169,599,618","464,869"
+740180                          ,Cartera de crédito PARA MICROCRÉDITO en administración ,0,0
+740185                          ,Cartera de crédito educativo en administración,0,0
+7402                            ,Operaciones pasivas con empresas vinculadas,"57,512,651","10,367,314"
+740205                          ,Obligaciones con el público,"57,512,651","10,367,314"
+740210                          ,Obligaciones interbancarias,0,0
+740215                          ,Obligaciones inmediatas,0,0
+740220                          ,Aceptaciones en circulación,0,0
+740225                          ,Cuentas por pagar,0,0
+740230                          ,Obligaciones financieras,0,0
+740235                          ,Valores en circulación,0,0
+740240                          ,Obligaciones convertibles en acciones y aportes para futura capitalización,0,0
+740245                          ,Otros pasivos,0,0
+740250                          ,Contingentes,0,0
+7403                            ,Operaciones pasivas con empresas subsidiarias y afiliadas,"27,321,343","6,822,575"
+740305                          ,Obligaciones con el público,"27,321,343","6,556,668"
+740310                          ,Obligaciones interbancarias,0,0
+740315                          ,Obligaciones inmediatas,0,0
+740320                          ,Aceptaciones en circulación,0,0
+740325                          ,Cuentas por pagar,0,"265,908"
+740330                          ,Obligaciones financieras,0,0
+740335                          ,Valores en circulación,0,0
+740340                          ,Obligaciones convertibles en acciones y aportes para futura capitalización,0,0
+740345                          ,Otros Pasivos,0,0
+740350                          ,Contingentes,0,0
+7404                            ,Depósitos y otras captaciones no cubiertas POR LA COSEDE,0,"16,785,347"
+740405                          ,Obligaciones con el público,0,"16,785,347"
+740410                          ,Obligaciones inmediatas,0,0
+7406                            ,Deficiencia de provisiones,0,0
+740605                          ,Inversiones,0,0
+740610                          ,Cartera de créditos,0,0
+740615                          ,Deudores por aceptación,0,0
+740620                          ,Cuentas por cobrar,0,0
+740625                          ,"Bienes realizables, adjudicados por pago y arrendamiento mercantil",0,0
+740630                          ,Otros activos,0,0
+740635                          ,Operaciones contingentes,0,0
+7407                            ,Depósitos de entidades del sector público,"74,057,212","241,297,238"
+740705                          ,Depósitos monetarios,"1,421,851","74,223,216"
+740710                          ,Depósitos de ahorro,0,0
+740715                          ,Otros depósitos,"13,622,334",0
+740720                          ,Operaciones de reporto,0,0
+740725                          ,Depósitos a plazo,"59,013,028","166,553,618"
+740730                          ,Depósitos por confirmar,0,"520,404"
+7408                            ,Origen del capital,"919,241,600","394,760,000"
+740805                          ,Aportes en efectivo de accionistas o socios del país,"47,916,298","1,783,270"
+740810                          ,Aportes en efectivo de accionistas o socios del exterior,0,0
+740815                          ,Reinversión,"866,319,021","392,601,853"
+740820                          ,Revalorización del Patrimonio,"4,984,262","374,877"
+740825                          ,Reexpresión monetaria,"22,018",0
+740830                          ,Participación minoritaria,0,0
+7410                            ,Capital suscrito no pagado,0,0
+7411                            ,Pasivos adquiridos,0,0
+741105                          ,Depósitos a la vista,0,0
+741110                          ,Operaciones de reporto,0,0
+741115                          ,Depósitos a plazo,0,0
+741120                          ,Operaciones interbancarias,0,0
+741125                          ,Obligaciones inmediatas,0,0
+741130                          ,Cuentas por pagar,0,0
+741135                          ,Obligaciones financieras,0,0
+741140                          ,Otros pasivos,0,0
+7412                            ,Orden de prelación,0,0
+741205                          ,Pasivos garantizados conforme a la ley,0,0
+741210                          ,Costas judiciales causadas en interés común de los acreedores,0,0
+741215                          ,Deudas con trabajadores e IESS,0,0
+741220                          ,"Impuestos, tasas y contribuciones",0,0
+741225                          ,Obligaciones por depósitos y captaciones del público,0,0
+741230                          ,Otros créditos de acuerdo al orden y forma determinados en el Código Civil,0,0
+741235                          ,"Accionistas, administradores y vinculados",0,0
+7413                            ,Control de pasivos de entidades en saneamiento,0,0
+741305                          ,Depósitos garantizados,0,0
+741310                          ,Pasivos originados en el proceso de saneamiento,0,0
+7414                            ,PROVISIONES CONSTITUIDAS,"416,928,697","110,695,649"
+741401                          ,PROVISIÓN CARTERA REFINANCIADA PRODUCTIVO,"21,560,119","2,567,802"
+741402                          ,PROVISIÓN CARTERA REFINANCIADA DE CONSUMO,"2,119,908","575,585"
+741403                          ,PROVISIÓN CARTERA REFINANCIADA INMOBILIARIO,"177,382","336,999"
+741404                          ,PROVISIÓN CARTERA REFINANCIADA MICROCRÉDITO,"2,474,500","22,410"
+741409                          ,PROVISIÓN CARTERA REESTRUCTURADA PRODUCTIVO,"32,046,664","6,301,014"
+741410                          ,PROVISIÓN CARTERA REESTRUCTURADA DE CONSUMO ,"34,189,109","37,305,365"
+741411                          ,PROVISIÓN CARTERA REESTRUCTURADA INMOBILIARIO,"16,470,532","4,236,294"
+741412                          ,PROVISIÓN CARTERA REESTRUCTURADA MICROCRÉDITO,"28,121,280","408,112"
+741417                          ,PROVISIÓN GENÉRICA POR TECNOLOGÍA CREDITICIA CARTERA DE CONSUMO,0,0
+741418                          ,PROVISIÓN GENÉRICA POR TECNOLOGÍA CREDITICIA CARTERA DE MICROCRÉDITO,0,0
+741419                          ,PROVISIÓN GENÉRICA POR TECNOLOGÍA CREDITICIA CARTERA DE CRÉDITO EDUCATIVO,0,0
+741420                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA PRODUCTIVO,"150,463,003","35,235,741"
+741421                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA CONSUMO ,"70,894,000","18,547,561"
+741422                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA INMOBILIARIO,"25,950,000","4,403,936"
+741423                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA DE MICROCRÉDITO,"32,074,000","754,829"
+741428                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA REFINANCIADA,0,0
+741429                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA REESTRUCTURADA,0,0
+741431                          ,PROVISIÓN CARTERA REFINANCIADA DE VIVIENDA DE INTERÉS PÚBLICO,0,0
+741432                          ,PROVISIÓN CARTERA REFINANCIADA EDUCATIVO,0,0
+741435                          ,PROVISIÓN CARTERA REESTRUCTURADA DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+741436                          ,PROVISIÓN CARTERA REESTRUCTURADA EDUCATIVO,0,0
+741440                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+741441                          ,PROVISIÓN GENÉRICA VOLUNTARIA CARTERA DE CRÉDITO EDUCATIVO,"388,200",0
+7415                            ,DEPÓSITOS O CAPTACIONES CONSTITUIDOS COMO GARANTÍA DE PRESTAMOS,0,"131,462,659"
+741505                          ,CARTERA PRODUCTIVO,0,"92,209,906"
+741510                          ,CARTERAS DE CONSUMO ,0,"37,292,210"
+741515                          ,CARTERA INMOBILARIA,0,"122,815"
+741520                          ,CARTERA DE MICROCRÉDITO,0,"1,837,729"
+741540                          ,CARTERA DE CRÉDITO DE VIVIENDA DE INTERÉS SOCIAL Y PÚBLICO,0,0
+741545                          ,CARTERA DE CRÉDITO EDUCATIVO,0,0
+7416                            ,INTERESES pagados por depósitos o captaciones constituidos como garantía de préstamos,0,"3,284,612"
+741605                          ,Depósitos a la vista,0,0
+741610                          ,Depósitos a plazo,0,"3,284,612"
+7417                            ,OPERACIONES DE FINANCIAMIENTO AFIANZADAS,0,0
+741705                          ,CRÉDITOS PRODUCTIVOS,0,0
+741710                          ,CRÉDITOS PARA MICROCRÉDITO,0,0
+741715                          ,CONTINGENTES,0,0
+7490                            ,Otras cuentas de orden acreedoras,"40,545,029","10,086,806"
+749005                          ,Cheques de viajero,0,0
+749010                          ,Cartas de crédito avisadas,"31,575,880","9,857,699"
+749020                          ,Créditos aprobados no instrumentados,0,0
+749090                          ,Otras,"8,969,149","229,107"
